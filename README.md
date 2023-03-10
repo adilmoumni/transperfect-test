@@ -2,7 +2,7 @@
 
 ## Running the App
 You can access the live version of the app at 
-  `https://transperfect-test-adil.web.app/`
+- [https://transperfect-test-adil.web.app/](https://transperfect-test-adil.web.app/)
 
 Alternatively, you can clone the project and run it on your local machine.
 
